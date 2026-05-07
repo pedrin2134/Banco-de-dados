@@ -1,0 +1,11 @@
+INSERT INTO clientes (nomes, idade) VALUES
+('Pedro', 18),
+('Emilly', 17),
+('Andreia', 30),
+('Nathan', 89),
+('Tereza', 20),
+('Maria', 100),
+('João', 10),
+('Felipe', 27),
+('Cauan', 92),
+('Flavio', 24);
