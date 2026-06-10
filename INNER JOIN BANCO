@@ -2,3 +2,6 @@ SELECT a.matricula, p.nome, p.cpf, p.data_nascimento
 FROM tb_alunos a 
 INNER JOIN tb_pessoas p 
 ON a.id_pessoas = p.id_pessoas;
+
+
+
